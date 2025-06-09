@@ -1,0 +1,12 @@
+{
+  "name": "useless-package",
+  "version": "1.0.0",
+  "description": "A package, containing the most useless code ever.",
+  "license": "MIT",
+  "author": "Loïc Boiteux",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
