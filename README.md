@@ -4,10 +4,10 @@ Useless Package is a Javascript/Typescript library containing only useless and b
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+You can install this wonderful library with this command:
 
 ```bash
-pip install foobar
+npm -i useless-package
 ```
 
 ## Usage
