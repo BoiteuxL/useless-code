@@ -1,12 +1,17 @@
 {
-  "name": "useless-package",
+  "name": "useless-code",
   "version": "1.0.0",
   "description": "A package, containing the most useless code ever.",
   "license": "MIT",
   "author": "Loïc Boiteux",
   "type": "module",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "typescript": "^5.8.3"
   }
 }
